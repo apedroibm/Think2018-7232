@@ -12,7 +12,6 @@
 #   See the License for the specific language governing permissions and
 #   limitations under the License.
 
-#Deploy the pod
 apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
