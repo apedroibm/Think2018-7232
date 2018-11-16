@@ -246,7 +246,7 @@ spec:
           servicePort: 9080
 
 #
-#Deploy the pod
+
 apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
